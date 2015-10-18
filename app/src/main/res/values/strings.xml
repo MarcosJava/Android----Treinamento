@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Livrarias</string>
+
+    <string name="btn_cadastrar">Cadastrar </string>
+    <string name="btn_listar"> Listar </string>
+
+
+    <string name="lb_nome_livro">Nome do Livro: </string>
+    <string name="lb_autor_livro">Autor do Livro: </string>
+    <string name="lb_editora_livro">Editora do Livro: </string>
+
+    <string name="action_settings">Settings</string>
+</resources>
